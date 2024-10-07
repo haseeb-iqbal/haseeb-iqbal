@@ -56,7 +56,7 @@ Game Companies I have worked for: <a href="https://www.treespleasegames.com/">Tr
 Have received 5 stars on all <a href="https://www.upwork.com/freelancers/haseebiqbal11?mp_source=share">upwork completed jobs</a>.
 
 # 📨 Contact me
-Whether you are looking to hire a developer, collaborate on a project, looking for advice (web dev or game dev related) or just looking for a friendly chat don't hesitate to contact me and I will respond at my earliest! 😁\
+Whether you are looking to hire a developer, collaborate on a project, looking for advice (web dev or game dev related) or just looking for a friendly chat, don't hesitate to contact me, and I will respond at my earliest! 😁\
 <br>
 <div align="center">
   <p>
