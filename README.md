@@ -18,7 +18,7 @@
 <a href="https://www.lifestylemarketing.com/">Lifestyle Marketing</a> - Worked as a Front End Developer creating complex input forms with integrations with Monday.com. - (React, Monday.com, Google Maps, HTML5, CSS3) <br>
 <a href="http://actuality-inc.com/">Actuality-inc</a> [IN PROGRESS] - Working as a web developer on a complete redesign and update of their website. - (React, Node, HTML5, CSS3) <br>
 <br>
-Game Companies I have worked for: <a href="https://www.treespleasegames.com/">TreesPlease Games</a>, <a href="https://www.youtube.com/@bigumaku201?app=desktop">Bigumaku</a>, <a href="https://www.youtube.com/user/KuatoStudios">Kuato Studios</a>, <a href="https://www.frag-games.com/">Frag Games</a>. During this process I got to work with companies such as Disney and Marvel.
+Game Companies I have worked for: <a href="https://www.treespleasegames.com/">TreesPlease Games</a>, <a href="https://www.youtube.com/@bigumaku201">Bigumaku</a>, <a href="https://www.youtube.com/user/KuatoStudios">Kuato Studios</a>, <a href="https://www.frag-games.com/">Frag Games</a>. During this process I got to work with companies such as Disney and Marvel.
 
 
 <!--
