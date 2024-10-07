@@ -12,15 +12,20 @@
 
 # :rocket: Projects:
 <h3>Companies I have worked with and websites I have worked on</h3>
-<a href="https://www.xray.muntra.com">Muntra</a> - Worked as a Web Developer on their internal and external website. - (React, Node, HTML5, CSS3) <br>
-<a href="https://klo.dev/">Klotho</a> - Worked as a Web Developer on their Admin Portal - (HTML5, CSS3, Cytoscape). <br>
-<a href="https://near.org/">HomePage (part of near)</a> - Worked as a Front End Developer converting Figma designs to responsive implementations.  - (React, HTML5, CSS3, Cytoscape) <br>
-<a href="https://www.lifestylemarketing.com/">Lifestyle Marketing</a> - Worked as a Front End Developer creating complex input forms with integrations with Monday.com. - (React, Monday.com, Google Maps, HTML5, CSS3) <br>
-<a href="http://actuality-inc.com/">Actuality-inc</a> [IN PROGRESS] - Working as a web developer on a complete redesign and update of their website. - (React, Node, HTML5, CSS3) <br>
+<a href="https://www.xray.muntra.com">Muntra</a> - Worked as a Web Developer on their internal and external website. - (React, Node, Javascript, HTML5, CSS3) <br>
+<a href="https://klo.dev/">Klotho</a> - Worked as a Web Developer on their Admin Portal - (HTML5, CSS3, Javascript, Cytoscape). <br>
+<a href="https://near.org/">HomePage (part of near)</a> - Worked as a Front End Developer converting Figma designs to responsive implementations.  - (React, HTML5, CSS3, Javascript) <br>
+<a href="https://www.lifestylemarketing.com/">Lifestyle Marketing</a> - Worked as a Front End Developer creating complex input forms with integrations with Monday.com. - (React, Javascript, Monday.com, Google Maps, HTML5, CSS3) <br>
+<a href="http://actuality-inc.com/">Actuality-inc</a> [IN PROGRESS] - Working as a web developer on a complete redesign and update of their website. - (React, Node, Typescript, HTML5, CSS3) <br>
 <br>
-Game Companies I have worked for: <a href="https://www.treespleasegames.com/">TreesPlease Games</a>, <a href="https://www.youtube.com/@bigumaku201">Bigumaku</a>, <a href="https://www.youtube.com/user/KuatoStudios">Kuato Studios</a>, <a href="https://www.frag-games.com/">Frag Games</a>. During this process I got to work with companies such as Disney and Marvel.
+Game Companies I have worked for: <a href="https://www.treespleasegames.com/">TreesPlease Games</a>, <a href="https://www.youtube.com/@bigumaku201">Bigumaku</a>, <a href="https://www.youtube.com/user/KuatoStudios">Kuato Studios</a>, <a href="https://www.frag-games.com/">Frag Games</a>. During this process I got to work with companies such as Disney and Marvel.<br><br>
 
-
+<b>Personal Websites & Projects:</b><br>
+<a href="https://haseeb-iqbal.github.io/bento-grid-main/">Bento Grid</a> (<a href="https://github.com/haseeb-iqbal/bento-grid-main">Repo</a>) - Bento Grid Challenge by FrontEnd Mentor - Responsive with animations. Created this only based off two images as reference. - (HTML5, CSS3, Javascript) <br>
+<a href="https://haseeb-iqbal.github.io/portfolio-website/">Personal Website</a> (<a href="https://github.com/haseeb-iqbal/portfolio-website">Repo</a>) - Personal Website displaying my experience (Could use an update with my new skills and new experience🤔). - (React, CSS3, Javascript) <br>
+<a href="http://star-wars-pearl.vercel.app/">Star Wars Movie Directory</a> (<a href="https://github.com/haseeb-iqbal/star-wars">Repo</a>) - A very simple website using the SWAPI API and saving data via local storage. See the features at the bottom of the website. - (React, CSS3, SWAPI, Javascript) <br>
+<a href="https://haseeb-iqbal.github.io/calculator-prototype/">Calculator Protoype</a> (<a href="https://github.com/haseeb-iqbal/calculator-prototype">Repo</a>) - A calculator with complex functionality in Javascript  - (HTML5, CSS3, Javascript) <br>
+<a href="https://haseeb-iqbal.github.io/crwn-clothing">Crown Clothing</a> (<a href="https://github.com/haseeb-iqbal/crwn-clothing">Repo</a>) - [IN PROGRESS] An E-commerce website integrated with firebase for saving login details  - (React, CSS3, Javascript, Firebase) <br>
 <!--
 **haseeb-iqbal/haseeb-iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
