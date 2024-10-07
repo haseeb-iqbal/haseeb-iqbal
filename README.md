@@ -1,4 +1,4 @@
-# 🐱‍🐉 About Me<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario programming background" width="250"/>
+# 🐱‍🐉 About Me <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario programming background" width="250"/>
 
 - 🀄 Full Stack developer with 5 years of coding experience specializing in React and Node.
 - 🎮 Experience working in the Games Industry with Unity & C#.
@@ -45,7 +45,7 @@ Game Companies I have worked for: <a href="https://www.treespleasegames.com/">Tr
 # 🏆 Reviews 
 
 ><i>"Working with Haseeb over the past year has been a real pleasure. Despite being in a different timezone, he made absolutely every effort to stay motivated and deliver what was asked of him and more! He has a cheerful temperament with a can-do attitude which makes it very easy to work with him."</i> ~ James Wilson, CEO Bigumaku
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g2amk4d29wNmR1cmNrcjM0YnFvY21kMG9ibTJnNms2bm96ZnJ2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MTclfCr4tVgis/giphy.gif" width="150px"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g2amk4d29wNmR1cmNrcjM0YnFvY21kMG9ibTJnNms2bm96ZnJ2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MTclfCr4tVgis/giphy.gif" width="150px" alt="Spongebob celebration"/>
 
 ><i>"Haseeb is skilled, friendly and overall easy-going to work with. Highly recommended!"</i> ~ Niels Rask, CEO Muntra
 
@@ -62,7 +62,7 @@ Whether you are looking to hire a developer, collaborate on a project, looking f
 </p>
 <p>
 
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZhZm02YmdjeHR1cTRvOTFhNjYxcXZqNDBoaTVxc3Q2ZGF6ZW95eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GcSqyYa2aF8dy/giphy.gif" width="200px" />  [<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9tNDc1cXQ2amt3cWl0azhjM2xoMzF0M3FwMjJzZjQwdmhxYzVnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nOwaf4VgL3WTZH8OYl/giphy.gif" alt="Mario programming background" width="250px"/>](mailto:a.haseeb19@gmail.com?subject=Let's%20get%20in%20touch!&body=Hello%2C%0A%0AI%20came%20across%20your%20website%20and%20would%20like%20to%20chat.%0A%0ARegards%2C) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZhZm02YmdjeHR1cTRvOTFhNjYxcXZqNDBoaTVxc3Q2ZGF6ZW95eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GcSqyYa2aF8dy/giphy.gif" width="200px"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZhZm02YmdjeHR1cTRvOTFhNjYxcXZqNDBoaTVxc3Q2ZGF6ZW95eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GcSqyYa2aF8dy/giphy.gif" width="200px" alt="Shia Lebouf Just Do it"/>  [<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9tNDc1cXQ2amt3cWl0azhjM2xoMzF0M3FwMjJzZjQwdmhxYzVnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nOwaf4VgL3WTZH8OYl/giphy.gif" alt="Envelope Jumping" width="250px"/>](mailto:a.haseeb19@gmail.com?subject=Let's%20get%20in%20touch!&body=Hello%2C%0A%0AI%20came%20across%20your%20website%20and%20would%20like%20to%20chat.%0A%0ARegards%2C) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZhZm02YmdjeHR1cTRvOTFhNjYxcXZqNDBoaTVxc3Q2ZGF6ZW95eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GcSqyYa2aF8dy/giphy.gif" width="200px" alt="Shia Lebouf Just Do it"/>
 
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
@@ -71,10 +71,10 @@ Whether you are looking to hire a developer, collaborate on a project, looking f
 
 
 <p><b>Farewell, Thank you for checking out my profile!</b></p>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxqaWE0aGV4eDd2MWMwa2NlOXA5YzI3NHNzZXgweTZmdmVydDA5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAsBwSjx9zVKoGp9nr/giphy.gif"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxqaWE0aGV4eDd2MWMwa2NlOXA5YzI3NHNzZXgweTZmdmVydDA5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAsBwSjx9zVKoGp9nr/giphy.gif" alt="Keanu Reeves farewell"/>
 <br>
 <br>
-<img src="https://i.redd.it/axjjd2nyj1kb1.gif"/>
+<img src="https://i.redd.it/axjjd2nyj1kb1.gif" alt="Cartoon Background of kids gaming"/>
 
 </div>
 
