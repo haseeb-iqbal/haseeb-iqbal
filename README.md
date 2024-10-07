@@ -42,18 +42,18 @@ Game Companies I have worked for: <a href="https://www.treespleasegames.com/">Tr
 <a href="https://haseeb-iqbal.github.io/bento-grid-main/">Bento Grid</a> (<a href="https://github.com/haseeb-iqbal/bento-grid-main">Repo</a>) - Bento Grid Challenge by FrontEnd Mentor - Responsive with animations. Created this only based off two images as reference. - (HTML5, CSS3, Javascript) <br>
 <a href="https://haseeb-iqbal.github.io/portfolio-website/">Personal Website</a> (<a href="https://github.com/haseeb-iqbal/portfolio-website">Repo</a>) - Personal Website displaying my experience (Could use an update with my new skills and new experience🤔). - (React, CSS3, Javascript) <br>
 <a href="http://star-wars-pearl.vercel.app/">Star Wars Movie Directory</a> (<a href="https://github.com/haseeb-iqbal/star-wars">Repo</a>) - A very simple website using the SWAPI API and saving data via local storage. See the features at the bottom of the website. - (React, CSS3, SWAPI, Javascript) <br>
-<a href="https://haseeb-iqbal.github.io/calculator-prototype/">Calculator Protoype</a> (<a href="https://github.com/haseeb-iqbal/calculator-prototype">Repo</a>) - A calculator with complex functionality in Javascript  - (HTML5, CSS3, Javascript) <br>
-<a href="https://haseeb-iqbal.github.io/crwn-clothing">Crown Clothing</a> (<a href="https://github.com/haseeb-iqbal/crwn-clothing">Repo</a>) - [IN PROGRESS] An E-commerce website integrated with firebase for saving login details  - (React, CSS3, Javascript, Firebase) <br>
+<a href="https://haseeb-iqbal.github.io/calculator-prototype/">Calculator Protoype</a> (<a href="https://github.com/haseeb-iqbal/calculator-prototype">Repo</a>) - A calculator with complex functionality in Javascript.  - (HTML5, CSS3, Javascript) <br>
+<a href="https://haseeb-iqbal.github.io/crwn-clothing">Crown Clothing</a> (<a href="https://github.com/haseeb-iqbal/crwn-clothing">Repo</a>) - [IN PROGRESS] An E-commerce website integrated with firebase for saving login details.  - (React, CSS3, Javascript, Firebase) <br>
 
 
 # 🏆 Reviews 
 
-><i>"Working with Haseeb over the past year has been a real pleasure. Despite being in a different timezone, he made absolutely every effort to stay motivated and deliver what was asked of him and more! He has a cheerful temperament with a can-do attitude which makes it very easy to work with him."</i> ~ James Wilson, CEO Bigumaku
+><i>"Working with Haseeb over the past year has been a real pleasure. Despite being in a different timezone, he made absolutely every effort to stay motivated and deliver what was asked of him and more! He has a cheerful temperament with a can-do attitude which makes it very easy to work with him."</i> ~ James Wilson, CEO Bigumaku.
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g2amk4d29wNmR1cmNrcjM0YnFvY21kMG9ibTJnNms2bm96ZnJ2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MTclfCr4tVgis/giphy.gif" width="150px" alt="Spongebob celebration"/>
 
-><i>"Haseeb is skilled, friendly and overall easy-going to work with. Highly recommended!"</i> ~ Niels Rask, CEO Muntra
+><i>"Haseeb is skilled, friendly and overall easy-going to work with. Highly recommended!"</i> ~ Niels Rask, CEO Muntra.
 
-Have received 5 stars on all <a href="https://www.upwork.com/freelancers/haseebiqbal11?mp_source=share">upwork completed jobs</a> 
+Have received 5 stars on all <a href="https://www.upwork.com/freelancers/haseebiqbal11?mp_source=share">upwork completed jobs</a>.
 
 # 📨 Contact me
 Whether you are looking to hire a developer, collaborate on a project, looking for advice (web dev or game dev related) or just looking for a friendly chat don't hesitate to contact me and I will respond at my earliest! 😁\
