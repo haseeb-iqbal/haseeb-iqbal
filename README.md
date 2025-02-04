@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20my%20Github%20Page&reversal=false&fontSize=50&animation=twinkling&desc=My%20name%20is%20Haseeb%20Iqbal&descAlignY=48&descSize=25&stroke=000000&fontAlignY=26&strokeWidth=1)
 # 🐱‍🐉 About Me <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario programming background" width="30%"/>
 
-- 🀄 Full Stack developer with 5 years of coding experience specializing in React and Node.
+- 🀄 Full Stack developer with 8 years of coding experience specializing in React and Node.
 - 🎮 Experience working in the Games Industry with Unity & C#.
 - 🤝 I’m willing to collaborate on building communities, and open-source projects.
 - 📫 Reach out to me for advice or project collaboration at: [a.haseeb19@gmail.com](mailto:a.haseeb19@gmail.com?subject=Let's%20get%20in%20touch!&body=Hello%2C%0A%0AI%20came%20across%20your%20website%20and%20would%20like%20to%20chat.%0A%0ARegards%2C). 
