@@ -43,14 +43,6 @@
 <br>
 Game Companies I have worked for: <a href="https://www.treespleasegames.com/">TreesPlease Games</a>, <a href="https://www.youtube.com/@bigumaku201">Bigumaku</a>, <a href="https://www.youtube.com/user/KuatoStudios">Kuato Studios</a>, <a href="https://www.frag-games.com/">Frag Games</a>. During this process I got to work with companies such as Disney and Marvel.<br><br>
 
-<b>Personal Websites & Projects:</b><br>
-<a href="https://haseeb-iqbal.github.io/bento-grid-main/">Bento Grid</a> (<a href="https://github.com/haseeb-iqbal/bento-grid-main">Repo</a>) - Bento Grid Challenge by FrontEnd Mentor - Responsive with animations. Created this only based off two images as reference. - (HTML5, CSS3, Javascript) <br>
-<a href="https://haseeb-iqbal.github.io/portfolio-website/">Personal Website</a> (<a href="https://github.com/haseeb-iqbal/portfolio-website">Repo</a>) - Personal Website displaying my experience (Could use an update with my new skills and new experience🤔). - (React, CSS3, Javascript) <br>
-<a href="http://star-wars-pearl.vercel.app/">Star Wars Movie Directory</a> (<a href="https://github.com/haseeb-iqbal/star-wars">Repo</a>) - A very simple website using the SWAPI API and saving data via local storage. See the features at the bottom of the website. - (React, CSS3, SWAPI, Javascript) <br>
-<a href="https://haseeb-iqbal.github.io/calculator-prototype/">Calculator Protoype</a> (<a href="https://github.com/haseeb-iqbal/calculator-prototype">Repo</a>) - A calculator with complex functionality in Javascript.  - (HTML5, CSS3, Javascript) <br>
-<a href="https://haseeb-iqbal.github.io/crwn-clothing">Crown Clothing</a> (<a href="https://github.com/haseeb-iqbal/crwn-clothing">Repo</a>) - [IN PROGRESS] An E-commerce website integrated with firebase for saving login details.  - (React, CSS3, Javascript, Firebase) <br>
-
-
 # 🏆 Reviews 
 
 ><i>"Working with Haseeb over the past year has been a real pleasure. Despite being in a different timezone, he made absolutely every effort to stay motivated and deliver what was asked of him and more! He has a cheerful temperament with a can-do attitude which makes it very easy to work with him."</i> ~ James Wilson, CEO Bigumaku.
