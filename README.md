@@ -32,8 +32,8 @@
 # :rocket: Professional Expereince
 <h3>Projects and companies I’ve worked with</h3>
 
-<a href="https://clicktech.com/">ClickTech</a> - Developed complex features, fixed critical bugs and enhanced performance on a number of their internal projects. - (React, Next.js, Typescript, OpenAI, Tailwind) <br>
-<a href="https://helloaira.io/">Aira</a> - Developed a complex AI Assistant Recruitment Website as the sole Front-end developer- (React, OpenAI Typescript, Tailwind) <br>
+<a href="https://clicktech.com/">ClickTech</a> - Developed complex features, fixed critical bugs and enhanced performance on a number of their internal projects. - (Next.js, Typescript, OpenAI, Tailwind) <br>
+<a href="https://helloaira.io/">Aira</a> - Developed a complex AI Assistant Recruitment Website as the sole Front-end developer - (React, OpenAI Typescript, Tailwind) <br>
 <a href="https://ottomato.ai/">Ottomato AI</a> - Focused on developing an AI integrated web server interacting with Make and Pickaxe - (Node.js, OpenAI, React, Make, Pickaxe) <br>
 <a href="https://www.xray.muntra.com">Muntra</a> - Developed a number of features including a customer ticketing system along with QOL improvements  - (React, Node, Javascript, MUI) <br>
 <a href="https://near.org/">HomePage (part of near)</a> - Converted figma designs into fully responsive websites along with feature integration - (React, HTML5, CSS3, Javascript) <br>
