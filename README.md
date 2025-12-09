@@ -57,6 +57,7 @@ Game Companies I have worked for: <a href="https://www.treespleasegames.com/">Tr
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g2amk4d29wNmR1cmNrcjM0YnFvY21kMG9ibTJnNms2bm96ZnJ2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MTclfCr4tVgis/giphy.gif" width="150px" alt="Spongebob celebration"/>
 
 ><i>"Haseeb is skilled, friendly and overall easy-going to work with. Highly recommended!"</i> ~ Niels Rask, CEO Muntra.
+
 ><i>"Haseeb is a dedicated hard working Developer. It was a pleasure to work with him."</i> ~ Nadeem Malki, CEO Ottomato AI.
 
 Have received 5 stars on all <a href="https://www.upwork.com/freelancers/haseebiqbal11?mp_source=share">upwork completed jobs</a>.
