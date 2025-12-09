@@ -29,12 +29,14 @@
 
 </div>
 
-# :rocket: Projects
-<h3>Companies I have worked with and websites I have worked on</h3>
+# :rocket: Professional Expereince
+<h3>Projects and companies I’ve worked with</h3>
 
-<a href="https://helloaira.io/">Aira</a> - Currently working as a Web Developer on the Aira website with AI assistant integration - (React, Next.js Typescript, OpenAI, Tailwind) <br>
+<a href="https://clicktech.com/">ClickTech</a> - Developed complex features, fixed critical bugs and enhanced performance on a number of their internal projects. - (React, Next.js Typescript, OpenAI, Tailwind) <br>
+<a href="https://helloaira.io/">Aira</a> - Worked as a Web Developer creating a complex AI Assistant Recruitment Website - (React, Next.js Typescript, OpenAI, Tailwind) <br>
 <a href="https://www.xray.muntra.com">Muntra</a> - Worked as a Web Developer on their internal and external website. - (React, Next.js Node, Javascript, HTML5, CSS3) <br>
 <a href="https://klo.dev/">Klotho</a> - Worked as a Web Developer on their Admin Portal - (HTML5, CSS3, Javascript, Cytoscape). <br>
+<a href="https://ottomato.ai/">Ottomato AI</a> - Focused on developing an AI integrated web server interacting with Make and Pickaxe  - (React, Mode.js, OpenAI, Make, Pickaxe) <br>
 <a href="https://near.org/">HomePage (part of near)</a> - Worked as a Front End Developer converting Figma designs to responsive implementations.  - (React, HTML5, CSS3, Javascript) <br>
 <a href="https://www.lifestylemarketing.com/">Lifestyle Marketing</a> - Worked as a Front End Developer creating complex input forms with integrations with Monday.com. - (React, Javascript, Monday.com, Google Maps, HTML5, CSS3) <br>
 <a href="http://actuality-inc.com/">Actuality-inc</a> [IN PROGRESS] - Working as a web developer on a complete redesign and update of their website. - (React, Node, Typescript, HTML5, CSS3) <br>
