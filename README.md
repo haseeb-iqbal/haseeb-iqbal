@@ -2,7 +2,7 @@
 # 🐱‍🐉 About Me <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario programming background" width="30%"/>
 
 - 🀄 Professional Full Stack developer with 8 years of coding experience specializing in React/Next.js and Node.
-- 🌟 100% Job Success Score, Top Rated Plus on Upwork.
+- 🌟 100% Job Success Score, Top Rated Plus on Upwork with only 5 star reviews.
 - 🎮 Additional experience working in the Games Industry with Unity & C#.
 - 📫 Reach out to me for consultation, advice or project collaboration at: [a.haseeb19@gmail.com](mailto:a.haseeb19@gmail.com?subject=Let's%20get%20in%20touch!&body=Hello%2C%0A%0AI%20came%20across%20your%20website%20and%20would%20like%20to%20chat.%0A%0ARegards%2C). 
 
