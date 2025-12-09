@@ -33,15 +33,15 @@
 <h3>Projects and companies I’ve worked with</h3>
 
 <a href="https://clicktech.com/">ClickTech</a> - Developed complex features, fixed critical bugs and enhanced performance on a number of their internal projects. - (Next.js, Typescript, OpenAI, Tailwind) <br>
-<a href="https://helloaira.io/">Aira</a> - Developed a complex AI Assistant Recruitment Website as the sole Front-end developer - (React, OpenAI Typescript, Tailwind) <br>
-<a href="https://ottomato.ai/">Ottomato AI</a> - Devloped an AI integrated web server interacting with Make and Pickaxe amongst other work - (Node.js, OpenAI, React, Make, Pickaxe) <br>
+<a href="https://helloaira.io/">Aira</a> - Developed a complex AI Assistant Recruitment Website as the sole Front-end developer - (React, OpenAI, Typescript, Tailwind) <br>
+<a href="https://ottomato.ai/">Ottomato AI</a> - Developed an AI integrated web server interacting with Make and Pickaxe amongst other work - (Node.js, OpenAI, React, Make, Pickaxe) <br>
 <a href="https://www.xray.muntra.com">Muntra</a> - Developed a number of features including a customer ticketing system along with QOL improvements  - (React, Node, Javascript, MUI) <br>
-<a href="https://near.org/">HomePage (part of near)</a> - Converted figma designs into fully responsive websites along with feature integration - (React, HTML5, CSS3, Javascript) <br>
+<a href="https://near.org/">HomePage (part of near)</a> - Converted figma designs into fully responsive websites along with feature development - (React, Javascript, Tailwind) <br>
 <a href="https://klo.dev/">Klotho</a> - Developed their internal admin portal - (HTML5, CSS3, Javascript, Cytoscape). <br>
-<a href="https://www.lifestylemarketing.com/">Lifestyle Marketing</a> - Worked on their internal website along with Monday.com plugin integration - (React, Javascript, Monday.com, Google Maps) <br>
-Actuality-inc [in development]- Creating their internal and clinet facing website - (Next.js, Node, Typescript, Tailwind) <br>
+<a href="https://www.lifestylemarketing.com/">Lifestyle Marketing</a> - Developed their internal website integrating the Monday.com plugin - (React, Javascript, Monday.com, Google Maps) <br>
+Actuality-inc [in development] - Developing their internal and client facing website - (Next.js, Node, Typescript, Tailwind) <br>
 <br>
-Game Companies I have worked at include  <a href="https://www.treespleasegames.com/">TreesPlease Games</a>, <a href="https://www.youtube.com/@bigumaku201">Bigumaku</a>, <a href="https://www.youtube.com/user/KuatoStudios">Kuato Studios</a> and <a href="https://www.frag-games.com/">Frag Games</a>. I have been a part of development teams that have worked on projects for leading brands such as Disney and Marvel.<br><br>
+Game Companies I have worked at include  <a href="https://www.treespleasegames.com/">TreesPlease Games</a>, <a href="https://www.youtube.com/@bigumaku201">Bigumaku</a>, <a href="https://www.youtube.com/user/KuatoStudios">Kuato Studios</a> and <a href="https://www.frag-games.com/">Frag Games</a>. I have been a part of development teams that have worked on projects for global leading brands such as Disney and Marvel.<br><br>
 
 # 🏆 Reviews 
 
