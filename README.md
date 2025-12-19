@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20my%20Github%20Page&reversal=false&fontSize=50&animation=twinkling&desc=My%20name%20is%20Haseeb%20Iqbal&descAlignY=48&descSize=25&stroke=000000&fontAlignY=26&strokeWidth=1)
 # 🐱‍🐉 About Me <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario programming background" width="30%"/>
 
-- 🀄 Professional Full Stack developer with 8 years of coding experience specializing in React/Next.js and Node.
+- 🀄 Professional Front End Developer with 8 years of coding experience specializing in React/Next.js and Node.
 - 🌟 100% Job Success Score, Top Rated Plus on Upwork with exclusively 5 star reviews from clients.
 - 🎮 Additional experience working in the Games Industry with Unity & C#.
 - 📫 Reach out to me for consultation, advice or project collaboration at [a.haseeb19@gmail.com](mailto:a.haseeb19@gmail.com?subject=Let's%20get%20in%20touch!&body=Hello%2C%0A%0AI%20came%20across%20your%20website%20and%20would%20like%20to%20chat.%0A%0ARegards%2C). 
@@ -77,8 +77,6 @@ Whether you are looking to hire a developer, collaborate on a project, looking f
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxqaWE0aGV4eDd2MWMwa2NlOXA5YzI3NHNzZXgweTZmdmVydDA5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAsBwSjx9zVKoGp9nr/giphy.gif" alt="Keanu Reeves farewell"/>
 <br>
 <br>
-<img src="https://i.redd.it/axjjd2nyj1kb1.gif" alt="Cartoon Background of kids gaming"/>
-
 </div>
 
 <!--
