@@ -1,10 +1,8 @@
-# 🐱‍🐉 About Me
+# About Me
 
-- 🀄 Senior Front End Developer with 8 years of coding experience specializing in React/Next.js and Node.
-- 🎮 Additional experience working in the Games Industry with Unity & C#.
-- 📫 Reach out to me for consultation, advice or project collaboration at [a.haseeb19@gmail.com](mailto:a.haseeb19@gmail.com?subject=Let's%20get%20in%20touch!&body=Hello%2C%0A%0AI%20came%20across%20your%20website%20and%20would%20like%20to%20chat.%0A%0ARegards%2C). 
+- Currently working on frontend in React/Next.js and Node. Total 8 years of development experience.
 
-# 💻 Tech Stack
+# Tech Stack
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50px" alt="animated react icon"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50px" alt="animated node icon"/>
@@ -27,7 +25,7 @@
 
 </div>
 
-# :rocket: Professional Expereince
+# Professional Expereince
 <h3>Projects and companies I’ve worked with</h3>
 
 <a href="https://clicktech.com/">ClickTech</a> - Developed complex features, fixed critical bugs and enhanced performance on a number of their internal projects. - (Next.js, Typescript, OpenAI, Tailwind) <br>
@@ -41,7 +39,7 @@ Actuality-inc [in development] - Developing their internal and client facing web
 <br>
 Game Companies I have worked at include  <a href="https://www.treespleasegames.com/">TreesPlease Games</a>, <a href="https://www.youtube.com/@bigumaku201">Bigumaku</a>, <a href="https://www.youtube.com/user/KuatoStudios">Kuato Studios</a> and <a href="https://www.frag-games.com/">Frag Games</a>. I have been a part of development teams that have worked on projects for global leading brands such as Disney and Marvel.<br><br>
 
-# 🏆 Reviews 
+# Reviews 
 
 ><i>"Working with Haseeb over the past year has been a real pleasure. Despite being in a different timezone, he made absolutely every effort to stay motivated and deliver what was asked of him and more! He has a cheerful temperament with a can-do attitude which makes it very easy to work with him."</i> ~ James Wilson, CEO Bigumaku.
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g2amk4d29wNmR1cmNrcjM0YnFvY21kMG9ibTJnNms2bm96ZnJ2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MTclfCr4tVgis/giphy.gif" width="150px" alt="Spongebob celebration"/>
