@@ -39,7 +39,7 @@ Actuality-inc [in development] - Developing their internal and client facing web
 <br>
 Game Companies I have worked at include  <a href="https://www.treespleasegames.com/">TreesPlease Games</a>, <a href="https://www.youtube.com/@bigumaku201">Bigumaku</a>, <a href="https://www.youtube.com/user/KuatoStudios">Kuato Studios</a> and <a href="https://www.frag-games.com/">Frag Games</a>. I have been a part of development teams that have worked on projects for global leading brands such as Disney and Marvel.<br><br>
 
-# Reviews 
+# Reccomendations 
 
 ><i>"Working with Haseeb over the past year has been a real pleasure. Despite being in a different timezone, he made absolutely every effort to stay motivated and deliver what was asked of him and more! He has a cheerful temperament with a can-do attitude which makes it very easy to work with him."</i> ~ James Wilson, CEO Bigumaku.
 
