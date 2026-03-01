@@ -1,6 +1,6 @@
 # About Me
 
-- Currently working on frontend in React/Next.js and Node. Total 8 years of development experience.
+Frontend developer speacilizing in React/Next.js and Node with a total 8 years of software development experience.
 
 # Tech Stack
 <div align="center">
