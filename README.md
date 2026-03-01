@@ -42,7 +42,6 @@ Game Companies I have worked at include  <a href="https://www.treespleasegames.c
 # Reviews 
 
 ><i>"Working with Haseeb over the past year has been a real pleasure. Despite being in a different timezone, he made absolutely every effort to stay motivated and deliver what was asked of him and more! He has a cheerful temperament with a can-do attitude which makes it very easy to work with him."</i> ~ James Wilson, CEO Bigumaku.
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g2amk4d29wNmR1cmNrcjM0YnFvY21kMG9ibTJnNms2bm96ZnJ2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MTclfCr4tVgis/giphy.gif" width="150px" alt="Spongebob celebration"/>
 
 ><i>"Haseeb is skilled, friendly and overall easy-going to work with. Highly recommended!"</i> ~ Niels Rask, CEO Muntra.
 
