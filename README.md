@@ -1,6 +1,6 @@
 # About Me
 
-Front end developer speacilizing in React/Next.js and Node with a total 8 years of software development experience.
+Front end developer specializing  in React/Next.js and Node with a total 8 years of software development experience.
 
 # Tech Stack
 Frontend: React, Next.js, TypeScript, JavaScript, Redux, Tailwind, shadcn<br/>
@@ -9,7 +9,7 @@ Tooling: Git, Jira, Figma, Copilot<br/>
 Testing: Jest, Cypress, Lighthouse<br/>
 
 
-# Professional Expereince
+# Professional Experience
 | Company | Description | Tech Stack |
 |---------|-------------|------------|
 | [ClickTech](https://clicktech.com/) | Developed complex features, fixed critical bugs and enhanced performance on a number of their internal projects | Next.js, Typescript, OpenAI, Tailwind, shadcn, Redux |
@@ -23,7 +23,7 @@ Testing: Jest, Cypress, Lighthouse<br/>
 <br>
 Game Companies I have worked at include  <a href="https://www.treespleasegames.com/">TreesPlease Games</a>, <a href="https://www.youtube.com/@bigumaku201">Bigumaku</a>, <a href="https://www.youtube.com/user/KuatoStudios">Kuato Studios</a> and <a href="https://www.frag-games.com/">Frag Games</a>. I have been a part of development teams that have worked on projects for global leading brands such as Disney and Marvel.<br><br>
 
-# Reccomendations 
+# Recommendations 
 
 ><i>"Working with Haseeb over the past year has been a real pleasure. Despite being in a different timezone, he made absolutely every effort to stay motivated and deliver what was asked of him and more! He has a cheerful temperament with a can-do attitude which makes it very easy to work with him."</i> ~ James Wilson, CEO Bigumaku.
 
