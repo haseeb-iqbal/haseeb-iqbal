@@ -1,6 +1,6 @@
 # About Me
 
-Front end developer specializing  in React/Next.js and Node with a total 8 years of software development experience.
+Web developer specializing in React/Next.js and Node with a total 8 years of software development experience.
 
 # Tech Stack
 Frontend: React, Next.js, TypeScript, JavaScript, Redux, Tailwind, shadcn<br/>
