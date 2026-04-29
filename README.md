@@ -3,11 +3,11 @@
 Web developer specializing in React/Next.js and Node with a total 8 years of software development experience.
 
 # Tech Stack
-Frontend: React, Next.js, TypeScript, JavaScript, Redux, Tailwind, shadcn<br/>
-Backend: Node.js, Supabase, PostgreSQL, REST APIs <br/>
-Tooling: Git, Jira, Figma, Copilot<br/>
-Testing: Jest, Cypress, Lighthouse<br/>
-
+Frontend: React, Next.js, TypeScript, JavaScript, Redux, Tailwind, Jest, Cypress<br/>
+Backend: Node.js, Express, Supabase, GraphQL, REST APIs<br/>
+Database: PostgreSQL, MongoDB<br/>
+DevOps: AWS, Docker, CI/CD, GitHub Actions<br/>
+AI tools: Copilot, CodeRabbit<br/>
 
 # Professional Experience
 | Company | Description | Tech Stack |
