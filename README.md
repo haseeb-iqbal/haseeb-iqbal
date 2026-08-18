@@ -4,4 +4,4 @@ Currently contributing to [Chayn](https://github.com/chaynHQ).
 
 Open to opportunities.
 
-Check out [My Website](haseebiqbal.dev)
+Check out [my website](haseebiqbal.dev)
