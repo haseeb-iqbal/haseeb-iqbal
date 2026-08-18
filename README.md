@@ -4,4 +4,4 @@ Full Stack developer specializing in React/Next.js, TypeScript & Node.
 
 Open to opportunities.
 
-Check out [my website](haseebiqbal.dev)
+Check out [my website](https://haseebiqbal.dev)
