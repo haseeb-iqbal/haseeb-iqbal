@@ -1,7 +1,5 @@
-Full Stack developer specializing in React/Next.js, TypeScript & Node.
+Unity Game Developer and Full-Stack Web developer(React, Node, TypeScript).
 
-[Chayn](https://github.com/chaynHQ) contributer.
-
-Open to opportunities.
+[Chayn](https://github.com/chaynHQ) contributor.
 
 Check out [my website](https://haseebiqbal.dev)
